@@ -1,0 +1,7 @@
+[2022-05-24 11:48:21.057] [remoteagent] [info] Extension host agent started.
+[2022-05-24 11:48:21.365] [remoteagent] [info] [127.0.0.1][b66fc978][ManagementConnection] New connection established.
+[2022-05-24 11:48:21.478] [remoteagent] [info] [127.0.0.1][23104df8][ExtensionHostConnection] New connection established.
+[2022-05-24 11:48:21.490] [remoteagent] [info] [127.0.0.1][23104df8][ExtensionHostConnection] <134> Launched Extension Host Process.
+[2022-05-24 11:48:21.700] [remoteagent] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/mainakghosh/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-05-24 12:04:59.845] [remoteagent] [info] [127.0.0.1][b66fc978][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-05-24 12:04:59.976] [remoteagent] [info] [127.0.0.1][23104df8][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.

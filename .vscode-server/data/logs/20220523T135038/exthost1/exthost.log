@@ -1,0 +1,16 @@
+[2022-05-23 13:50:41.026] [exthost] [info] Extension host with pid 145 started
+[2022-05-23 13:50:41.074] [exthost] [info] Lock '/home/mainakghosh/.vscode-server/data/User/workspaceStorage/0534dbb6b6a75cbd41be3d81320636e4/vscode.lock': Lock acquired.
+[2022-05-23 13:50:41.118] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-23 13:50:41.406] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-23 13:50:41.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-23 13:50:41.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-23 13:50:41.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-23 13:50:41.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-23 13:50:41.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-23 13:50:42.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-23 13:50:42.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-23 13:50:42.633] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-23 13:50:42.801] [exthost] [info] Eager extensions activated
+[2022-05-23 13:57:41.859] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-05-23 13:57:41.860] [exthost] [info] Lock '/home/mainakghosh/.vscode-server/data/User/workspaceStorage/0534dbb6b6a75cbd41be3d81320636e4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-23 13:57:41.923] [exthost] [info] Extension host with pid 145 exiting with code 0

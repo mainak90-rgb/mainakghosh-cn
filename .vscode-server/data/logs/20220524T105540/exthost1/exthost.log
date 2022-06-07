@@ -1,0 +1,19 @@
+[2022-05-24 10:55:42.658] [exthost] [info] Extension host with pid 184 started
+[2022-05-24 10:55:42.691] [exthost] [info] Lock '/home/mainakghosh/.vscode-server/data/User/workspaceStorage/0534dbb6b6a75cbd41be3d81320636e4/vscode.lock': Lock acquired.
+[2022-05-24 10:55:42.809] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-24 10:55:42.987] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-24 10:55:43.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-24 10:55:43.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-24 10:55:43.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-24 10:55:43.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-24 10:55:43.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-24 10:55:44.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 10:55:44.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 10:55:44.134] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 10:55:44.206] [exthost] [info] Eager extensions activated
+[2022-05-24 10:59:28.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-24 10:59:28.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-24 10:59:28.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-24 11:39:04.547] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-05-24 11:39:04.547] [exthost] [info] Lock '/home/mainakghosh/.vscode-server/data/User/workspaceStorage/0534dbb6b6a75cbd41be3d81320636e4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-24 11:39:04.588] [exthost] [info] Extension host with pid 184 exiting with code 0

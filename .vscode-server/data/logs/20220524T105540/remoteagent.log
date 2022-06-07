@@ -1,0 +1,13 @@
+[2022-05-24 10:55:40.440] [remoteagent] [info] Extension host agent started.
+[2022-05-24 10:55:40.664] [remoteagent] [info] [127.0.0.1][50fa5902][ManagementConnection] New connection established.
+[2022-05-24 10:55:40.678] [remoteagent] [info] [127.0.0.1][aef3358d][ExtensionHostConnection] New connection established.
+[2022-05-24 10:55:40.779] [remoteagent] [info] [127.0.0.1][aef3358d][ExtensionHostConnection] <184> Launched Extension Host Process.
+[2022-05-24 10:55:46.908] [remoteagent] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-05-24 10:55:47.351] [remoteagent] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-05-24 10:55:49.631] [remoteagent] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/mainakghosh/.vscode-server/data/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-05-24 10:55:49.701] [remoteagent] [info] Extracted extension to /home/mainakghosh/.vscode-server/extensions/.931f4362-3973-47ce-8b45-3fc7dfa2be45: jeff-hykin.better-cpp-syntax
+[2022-05-24 10:55:49.711] [remoteagent] [info] Renamed to /home/mainakghosh/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-05-24 10:55:49.714] [remoteagent] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-05-24 10:55:49.720] [remoteagent] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-05-24 11:39:04.531] [remoteagent] [info] [127.0.0.1][50fa5902][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-05-24 11:39:04.601] [remoteagent] [info] [127.0.0.1][aef3358d][ExtensionHostConnection] <184> Extension Host Process exited with code: 0, signal: null.
